@@ -1,5 +1,5 @@
 Mortgage Calculator - Budget Planner
-website URL:https://vedaf1.github.io/MortgageCal/
+website URL: https://vedaf1.github.io/mortgage-calculator-fyp/
 
 # MortgageCal
 University final-year project (2019), built independently without AI assistance.
